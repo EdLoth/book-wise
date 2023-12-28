@@ -59,7 +59,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/book-wise.git
+$ git clone git@github.com:EdLoth/book-wise.git
 ```
 ___
 
@@ -92,6 +92,6 @@ ___
 
 ___
 
-Made with ❤️ by André Viapiana 👋🏽 [Get in Touch!](https://www.linkedin.com/in/andreviapiana/)
+Made with ❤️ by Eduardo Ramos 👋🏽 [Get in Touch!](https://www.linkedin.com/in/dev-eduardo-ramos//)
 
 ---
