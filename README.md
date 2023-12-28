@@ -3,9 +3,9 @@
 </p>
 
 <p align="center" margin-top="25px" >
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/andreviapiana/book-wise" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/EdLoth/book-wise" />
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/andreviapiana/book-wise" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/EdLoth/book-wise" />
 </p>
 
 
